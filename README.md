@@ -1,6 +1,6 @@
 # Pagerduty_Oncall
 
-This is a very basica script I use to check who is on call on Pagerduty. 
+This is a very basic script I use to check who is on call on Pagerduty. 
 
 ## Usage
 
